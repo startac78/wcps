@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "532625256792",
+    "firebase_url": "https://kcp-wcps.firebaseio.com",
+    "project_id": "kcp-wcps",
+    "storage_bucket": "kcp-wcps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532625256792:android:1b7f321b8ee26923",
+        "android_client_info": {
+          "package_name": "com.logisall.wcps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532625256792-jcgqph1krto6vuo8o694s7pvfghfscqr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.logisall.wcps",
+            "certificate_hash": "3f5069a38ac47cd6f45ed2d09cc934b95936d0ea"
+          }
+        },
+        {
+          "client_id": "532625256792-nefu2v1qmgc4p3662aqj4gjut3da5i11.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.logisall.wcps",
+            "certificate_hash": "5fb46861ca8c9d94e7ad7f5d559bcd49846d1b85"
+          }
+        },
+        {
+          "client_id": "532625256792-bnv6h83vock4cs9dm5igqn2sejm7jdfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB05H7g4OkbZ8Dgt9T0zwZvnw8o77go02c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532625256792-bnv6h83vock4cs9dm5igqn2sejm7jdfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
